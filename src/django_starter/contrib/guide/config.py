@@ -21,7 +21,7 @@ BLOGS = [
 # 相关项目列表
 PROJECTS = [
     Uri('SiteDirectory', 'https://github.com/Deali-Axy/SiteDirectory', '一个基于Django的网站目录管理系统，支持多级分类和标签管理'),
-    Uri('CodePackager', 'https://github.com/star-plan/code-packager', '代码打包工具，帮助开发者快速整理和分享代码片段'),
+    Uri('CodePackager', 'https://github.com/iugamlabs/code-packager', '代码打包工具，帮助开发者快速整理和分享代码片段'),
     Uri('django / channels', 'https://github.com/django/channels', 'Django的WebSocket支持库，为Django提供异步和实时通信功能'),
     Uri('excel_to_model', 'https://github.com/Deali-Axy/excel_to_model', 'Excel数据导入工具，支持将Excel数据快速导入Django模型'),
 ]
